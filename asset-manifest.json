@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dummyShop/static/css/main.bd138272.css",
+    "main.js": "/dummyShop/static/js/main.334132f7.js",
+    "index.html": "/dummyShop/index.html",
+    "main.bd138272.css.map": "/dummyShop/static/css/main.bd138272.css.map",
+    "main.334132f7.js.map": "/dummyShop/static/js/main.334132f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd138272.css",
+    "static/js/main.334132f7.js"
+  ]
+}
